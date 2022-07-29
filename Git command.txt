@@ -1,0 +1,17 @@
+When you are creating New Repositry
+
+Window+R -> cmd
+cd+(Folder name )
+
+//for new repositry 
+git init 
+git remote add origin https//------(Copy this things from new repositry)
+
+///for every time pushing code on git hub
+git add .
+
+git commit -m"Comment(Write anything what ever you want)
+git push origin master
+
+
+git remote set-url origin git@github.com:RajnishKumar55555/repo.git
