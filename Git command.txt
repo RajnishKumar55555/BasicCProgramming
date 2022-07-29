@@ -20,3 +20,6 @@ git remote set-url origin git@github.com:RajnishKumar55555/repo.git
 
 token 
 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
+
+git remote set-url origin https://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@github.com/RajnishKumar55555/BasicCProgramming.git
+git push -u origin main
